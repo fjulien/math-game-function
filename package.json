@@ -1,0 +1,22 @@
+{
+  "name": "math-game-function",
+  "version": "1.0.0",
+  "description": "Function in npm package for math game in nodeJs",
+  "main": "index.js",
+  "repository": {
+    "type": "public",
+    "directory": "github",
+    "url": "https://github.com/fjulien/math-game-function.git"
+  },
+  "scripts": {
+    "test": "jest test"
+  },
+  "author": "fjulien",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.3.0",
+    "jest": "^25.3.0"
+  }
+}
